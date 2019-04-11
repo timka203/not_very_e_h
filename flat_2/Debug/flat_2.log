@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\flat_2\flat_2\source.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  flat.cpp
+c:\users\тимур\source\repos\flat_2\flat_2\flat.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  flat_2.vcxproj -> C:\Users\Тимур\source\repos\flat_2\Debug\flat_2.exe
